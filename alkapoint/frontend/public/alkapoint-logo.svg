@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="apbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f6e7c"/>
+      <stop offset="100%" stop-color="#0a4f5a"/>
+    </linearGradient>
+    <linearGradient id="apgold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e8c88a"/>
+      <stop offset="100%" stop-color="#d4a24c"/>
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="12" fill="url(#apbg)"/>
+  <path d="M14 34 L24 12 L34 34 M18 27 H30" stroke="url(#apgold)" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="34" cy="34" r="3" fill="url(#apgold)"/>
+</svg>
